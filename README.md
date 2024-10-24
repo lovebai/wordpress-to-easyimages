@@ -1,4 +1,4 @@
-# WordPress 上图图片到简单图床插件
+# WordPress 上传图片到简单图床插件
 
 1. 图床地址栏中只需填写网站地址，包含 `https` 或 `http` ， 如： `https://i.obai.cc `， 无需包含 / 和路径.
 2. 登录你的图床后台-左侧栏选择  `API设置` ，然后新增 token 或者复制已存在的 token .
